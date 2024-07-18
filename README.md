@@ -1,10 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20MINJI's%20Github&fontSize=50&animation=twinkling&text-color=black)
-<h3 align="center"><b>❤️About me❤️</b></h3>
+<h3 align="center"><b>🐹studying AI</b></h3>
 
-<p align="center">studying AI </p>
 <p align="center"><a href="https://pleasestudy-alswldi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-<!--<p align="center"> My main skills are Android,Kotlin,Python.</p>
+<p align="center"><a href="mailto:joomj200075@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joomj200075@gmail.com"/></a></p>
+<!--<p align="center">studying AI </p>
+<p align="center"> My main skills are Android,Kotlin,Python.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 <p align="center">Please look forward to my growth. Bye~</p>
 -->
