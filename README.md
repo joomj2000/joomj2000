@@ -1,4 +1,4 @@
-###(❁´◡`❁)💬
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="https://pleasestudy-alswldi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
@@ -12,6 +12,7 @@
 
 <!--<h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
+(❁´◡`❁)💬
 -->
 <br>
 <br>
@@ -20,6 +21,7 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=#3776AB"/></a>&nbsp 
+<img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat-square&logo=Python&logoColor=#EE4C2C"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
