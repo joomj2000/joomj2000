@@ -21,7 +21,7 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=#3776AB"/></a>&nbsp 
-<img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat-square&logo=Python&logoColor=#EE4C2C"/></a>&nbsp 
+<img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat-square&logo=pytorch&logoColor=#EE4C2C"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
