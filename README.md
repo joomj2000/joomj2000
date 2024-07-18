@@ -9,9 +9,11 @@
 <p align="center">Please look forward to my growth. Bye~</p>
 -->
 <br>
-
+![MINJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=joomj2000&show_icons=true&theme=radical)
 <!--<h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joomj2000)](https://solved.ac/joomj2000/)
+
 (❁´◡`❁)💬
 
 <br>
