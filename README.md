@@ -13,7 +13,7 @@
 <!--<h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
 (❁´◡`❁)💬
--->
+
 <br>
 <br>
 
@@ -27,5 +27,5 @@
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-
+-->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
