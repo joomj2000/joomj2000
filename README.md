@@ -32,9 +32,12 @@
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-
-![MINJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=joomj2000&show_icons=true&theme=radical)
+<div align="center">
+ ![MINJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=joomj2000&show_icons=true&theme=radical)
 -->
 ![MINJI's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joomj2000&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joomj2000)](https://solved.ac/joomj2000/)
+</div>
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
