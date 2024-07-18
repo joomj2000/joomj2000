@@ -10,9 +10,9 @@
 
 <br>
 
-<h3 align="center">❤️ I like...</h3>
+<!--<h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
-
+-->
 <br>
 <br>
 
