@@ -9,8 +9,10 @@
 <p align="center">Please look forward to my growth. Bye~</p>
 -->
 <br>
-![MINJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=joomj2000&show_icons=true&theme=radical)
+
 <!--<h3 align="center">❤️ I like...</h3>
+
+
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joomj2000)](https://solved.ac/joomj2000/)
 
@@ -30,4 +32,5 @@
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 -->
+![MINJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=joomj2000&show_icons=true&theme=radical)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
