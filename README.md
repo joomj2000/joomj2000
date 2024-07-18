@@ -34,5 +34,6 @@
 
 ![MINJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=joomj2000&show_icons=true&theme=radical)
 -->
-
+![MINJI's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joomj2000&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joomj2000)](https://solved.ac/joomj2000/)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
